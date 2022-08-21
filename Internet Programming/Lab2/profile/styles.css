@@ -1,0 +1,65 @@
+h1 {
+    background-color: #cfead9;
+    font-family: verdana;
+    font-size: 200%;
+}
+
+body {
+    background-image: linear-gradient(to right, #ffdde1 , #753a88);
+}
+
+td:hover {
+    background-color: powderblue;
+  }
+
+td {
+    height: 30px;
+    width: 250px;
+    border: solid black 0.1px;
+}
+
+#pic {
+    border-radius: 50%;
+}
+
+#moreInfo {
+    background-image: linear-gradient(to right, #ddd6f3 , #faaca8);
+}
+
+.anchor-buttons {
+    margin-left: 15%;
+}
+
+.anchor-buttons a {
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    transition: all 0.25s;
+    margin: 10% 5%;
+    padding: 2% 5%;
+}
+
+.anchor-buttons a:hover {
+    background-color: #b4b4b4;
+    color: black;
+    transform: scale(1.1, 1.1);
+}
+
+a {
+    text-decoration: none;
+}
+
+.icons svg {
+    transition: all 0.25s;
+    margin-left: 17%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.icons svg:hover {
+    transform: scale(1.5, 1.5);
+}
+
+h3::first-letter {
+    font-size: x-large;
+}
