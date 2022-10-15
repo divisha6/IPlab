@@ -1,0 +1,49 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Playfair Display', serif; */
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+nav {
+    background-color: #24a0ed;
+    box-shadow: 1px 1px 2px #4444;
+}
+
+
+/* .card : card-img {
+    padding: 15px;
+    border: 1cm #fff;
+    width: 50%;
+    height: auto;
+} */
+
+img.card-img {
+    background-color: black;
+    opacity: 50%;
+}
+
+.card-title {
+    padding-top: 50px;
+}
+
+.row1 {
+    padding:50px;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h5{
+    align-content: center;
+}
+
+.text-card {
+    padding-top: 50px;
+    align-content: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.row2{
+    padding: 50px;
+}
